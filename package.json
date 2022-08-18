@@ -1,0 +1,11 @@
+{
+  "name": "dinosaurs",
+  "version": "1.0.0",
+  "description": "javascript project",
+  "main": "app.js",
+  "author": "Tanya",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
