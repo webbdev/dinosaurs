@@ -3,7 +3,6 @@
 Project for the Udacity JavaScript Nanodegree Program. 
 
 
-
 ### How to run
 
 1. git clone https://github.com/webbdev/dinosaurs.git
